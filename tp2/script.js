@@ -31,24 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
         thisItem.appendChild(h);
         thisItem.appendChild(span);
         
-        
+
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     const divTwo=document.createElement("div")
     divTwo.classList.add("targets","grey");
